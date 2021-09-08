@@ -1,4 +1,4 @@
-# MLScripts_DjangoFramework
+# MLProjects_DjangoImplementation
 
 https://github.com/AnjaliVijayvargiya/MLScripts_DjangoFramework.git
 
