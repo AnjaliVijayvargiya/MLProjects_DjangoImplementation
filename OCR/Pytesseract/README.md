@@ -5,9 +5,10 @@ Implememtation of OCR using pytesseract library. The purpose is to detect text o
 https://github.com/UB-Mannheim/tesseract/wiki
 
 #### Libraries Used:
-1. pytesseract
-2. opencv-python
-3. bs4
+1. pytesseract: pip install pytesseract
+2. cv2: pip install opencv-python 
+3. bs4: pip install bs4
+You can refer requirements.txt file for this. (MLProjects_DjangoImplementation\OCR\Pytesseract\Scripts\requirements.txt)
 
 #### References:
 
